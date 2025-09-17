@@ -1,0 +1,14 @@
+jupyter
+numpy
+opencv-python
+matplotlib
+scipy
+scikit-learn
+numpy
+matplotlib
+opencv-python
+torch
+torchvision
+torchsummary
+scikit-learn
+seaborn
